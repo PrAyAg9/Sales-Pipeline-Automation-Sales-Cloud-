@@ -1,5 +1,7 @@
 # Sales Pipeline Automation & Analytics (Sales Cloud)
 
+[View My Trailhead Profile](https://www.salesforce.com/trailblazer/ro71c9g5wnqv25408q)
+
 This project helps businesses by enhancing the standard Salesforce Sales Cloud with automation and analytics. The goal is to improve data integrity, increase sales rep productivity, and provide clear visibility into pipeline health for management.
 
 This project is built 100% declaratively using standard Sales Cloud objects and tools.
